@@ -37,7 +37,7 @@
 ### 🧪 Setup
 
 ```bash
-git clone https://github.com/yourusername/AuroraPlayer.git
+git clone https://github.com/JuanBerta/AuroraPlayer.git
 cd AuroraPlayer-music-player
 pip install -r requirements.txt
 python main.py
